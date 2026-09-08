@@ -1,6 +1,6 @@
 {
   "name": "choicelens",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "private": true,
   "type": "module",
   "scripts": {
@@ -16,6 +16,7 @@
   "devDependencies": {
     "@tauri-apps/cli": "^2.8.0",
     "@types/node": "^22.10.0",
+    "jsdom": "^30.0.1",
     "typescript": "^5.7.2",
     "vite": "^6.0.7",
     "vitest": "^4.1.11"

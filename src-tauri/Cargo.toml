@@ -1,6 +1,6 @@
 [package]
 name = "choicelens"
-version = "0.1.0"
+version = "0.1.4"
 description = "A focused decision packet viewer"
 edition = "2021"
 
